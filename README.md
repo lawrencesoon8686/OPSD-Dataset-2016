@@ -1,4 +1,4 @@
-The dataset.xlsx consists of the following features, which can be used for win and solar power prediction.
+The dataset.xlsx consists of the following features, which can be used for wind and solar power prediction.
 
 Wind Metrics:	
 V1: velocity [m/s] at height h1 (2 meters above displacement height);	
